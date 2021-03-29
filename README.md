@@ -1,7 +1,7 @@
 # Astral
 
 > Welcome to the Official Github for the cheat! 
-> Please understand this cheat os licened under the Apache Licence. So, NO Code SHOULD be stolen and used as their own.
+> Please understand this cheat is licened under the Apache Licence. So, NO Code SHOULD be stolen and used as their own.
 
 ______________________________________
 
