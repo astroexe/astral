@@ -5,6 +5,10 @@
 
 ______________________________________
 
+To get the latest version, Please, Click [here](https://github.com/astroexe/astral/releases/tag/1.0.4)
+
+______________________________________
+
 # Cheat Version
 > 1.0.4
 
